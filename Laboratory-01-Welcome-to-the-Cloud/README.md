@@ -29,3 +29,20 @@ This laboratory activity introduces the fundamental concepts of Linux system adm
 * **Linux File System Management:** Acquired hands-on experience navigating paths, creating directory hierarchies, and managing files via CLI.
 * **Troubleshooting & Command Syntax:** Developed troubleshooting skills regarding pathing, case sensitivity, and file creation dependencies in Bash.
 * **Technical Documentation:** Mastered tracking live technical tasks and embedding terminal evidence into Markdown portfolios.
+
+## Terminal & Workspace Evidence
+
+### 1. KillerCoda Playground Environment
+![KillerCoda Playground](screenshots/checkpoint-1.png)
+
+### 2. Terminal Session (jhroldan User)
+![Terminal Session](screenshots/checkpoint-2.png)
+
+### 3. Created Directory Structure
+![Directory Structure](screenshots/checkpoint-3.png)
+
+### 4. GitHub Repository Homepage
+![GitHub Repository Homepage](screenshots/checkpoint-4.png)
+
+### 5. Repository File Structure
+![Repository File Structure](screenshots/checkpoint-5.png)  
