@@ -33,16 +33,16 @@ This laboratory activity introduces the fundamental concepts of Linux system adm
 ## Terminal & Workspace Evidence
 
 ### 1. KillerCoda Playground Environment
-![KillerCoda Playground](screenshots/checkpoint-1.png)
+![KillerCoda Playground](screenshots/checkpoint-1.png.png)
 
 ### 2. Terminal Session (jhroldan User)
-![Terminal Session](screenshots/checkpoint-2.png)
+![Terminal Session](screenshots/checkpoint-2.png.png)
 
 ### 3. Created Directory Structure
-![Directory Structure](screenshots/checkpoint-3.png)
+![Directory Structure](screenshots/checkpoint-3.png.png)
 
 ### 4. GitHub Repository Homepage
-![GitHub Repository Homepage](screenshots/checkpoint-4.png)
+![GitHub Repository Homepage](screenshots/checkpoint-4.png.png)
 
 ### 5. Repository File Structure
-![Repository File Structure](screenshots/checkpoint-5.png)  
+![Repository File Structure](screenshots/checkpoint-5.png.png)  
